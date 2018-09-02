@@ -1,0 +1,9 @@
+.Car-image {
+  height: 80px;
+}
+
+.Car {
+  background-color: lightgrey;
+  width: 300px;
+  padding: 10px;
+}

@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders stringified props 1`] = `
+"{
+  \\"a\\": \\"a\\",
+  \\"b\\": \\"b\\",
+  \\"c\\": \\"c\\"
+}"
+`;
